@@ -1,4 +1,4 @@
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">Certifications</h2>
 
 <a target="_blank" href="https://www.hackerrank.com/certificates/09052c5bfd3e">
   <img src="https://raw.githubusercontent.com/ONP4intFon2286Q/ONP4intFon2286Q/main/JSBasics.png" width="35%">
