@@ -4,11 +4,9 @@
   <img src="https://raw.githubusercontent.com/ONP4intFon2286Q/ONP4intFon2286Q/main/JSBasics.png" width="35%">
 </a>
 
-
-
-
-
-
+<a target="_blank" href="https://www.hackerrank.com/certificates/e134d2e2c3cf">
+  <img src="https://raw.githubusercontent.com/ONP4intFon2286Q/ONP4intFon2286Q/main/JSBasics.png" width="35%">
+</a>
 
 
 
